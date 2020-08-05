@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "789837831441",
+    "firebase_url": "https://codelabsproject-303a3.firebaseio.com",
+    "project_id": "codelabsproject-303a3",
+    "storage_bucket": "codelabsproject-303a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789837831441:android:1cc23aebe3bc84df0cc0b0",
+        "android_client_info": {
+          "package_name": "com.example.igor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789837831441-j9s04qb8dqbdmpru7l9sp1vad0q67rk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUSV_pDKS8w8Zc_dS2Ajn3C7gNxROyXLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789837831441-j9s04qb8dqbdmpru7l9sp1vad0q67rk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789837831441:android:c55e1298bd4fba2f0cc0b0",
+        "android_client_info": {
+          "package_name": "guikcompany.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789837831441-j9s04qb8dqbdmpru7l9sp1vad0q67rk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUSV_pDKS8w8Zc_dS2Ajn3C7gNxROyXLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789837831441-j9s04qb8dqbdmpru7l9sp1vad0q67rk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789837831441:android:f3c5bc7189879fe40cc0b0",
+        "android_client_info": {
+          "package_name": "kkk.company"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789837831441-j9s04qb8dqbdmpru7l9sp1vad0q67rk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUSV_pDKS8w8Zc_dS2Ajn3C7gNxROyXLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789837831441-j9s04qb8dqbdmpru7l9sp1vad0q67rk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
